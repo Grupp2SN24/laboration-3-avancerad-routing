@@ -4,15 +4,7 @@ Detta repo innehåller konfigurationer och dokumentation från Laboration 3 där
 
 ## Topologi
 ```
-        NAT1          NAT2
-          |            |
-        [SP1]========[SP2]
-         / \          / \
-        /   \        /   \
-      [LF1]==========[LF2]
-       |  \            |
-       |   \           |
-    CLI-A  MON      CLI-B
+    ![Lab 3 Network Topology](topologi.png)
 ```
 
 ## Teknologier
