@@ -2,10 +2,10 @@
 
 Detta repo innehåller konfigurationer och dokumentation från Laboration 3 där vi byggde en redundant routing-fabric med Arista vEOS.
 
-## Topologi
-```
-    ![Lab 3 Network Topology](topologi.png)
-```
+### Topologi
+
+![Lab 3 Network Topology](topologi.png)
+
 
 ## Teknologier
 
